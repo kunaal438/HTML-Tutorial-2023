@@ -1,0 +1,77 @@
+1. Exercise 1 
+    Webpage with a “Exercise - 1” title, “Yellow” background color of body. A H1 with some paragrapghs and 2 links.
+
+2  Exercise 2
+    Webpage with a “Exercise - 2” title. Add H1 element for heading of any topic you want.
+    The page should have atleast 3 - 4 long paragraphs on the topic. Make some texts bold, italic and underline.
+
+3  Exercise 3
+    A webpage with "Exercise - 3" title. Add a heading on any topic. Then on that topic add 2 - 3 paragraphs. Add images between the paragraphs related to the topic. At the end add a video or audio file of your choice. At very end add 2 - 3 links redirecting to pages related to the topic. Add sub headings (h2, h3 ...) if you like. And try to wrap the elements in 1 or more inside div tag.
+
+4  Exercise 4
+    For This exercise. Make register account form. Which will have these inputs.
+    First Name Field, Last Name Field, Age Field, Email Field, Password Field, A Checkbox to select from Hobbies, Radio button to choose from gender and a Sleect option to choose country or city. Add more elements like H1, Br, P or Div
+
+    Make sure that the form submits and have "name" and "value" attributes. Make sure after submission the form data comes in URL. 
+
+    Then you can change it to "POST" afterwards.
+
+5   Exercise 5
+    In this exercise, you have to make Google Image search.
+
+    You should make a form with a text field for image search and a button tag for form submission.
+
+    Its your task, to find the correct URL on which you have to submit the form. Try removing attributes 1 by 1 to see whats happening.
+
+    If you are not ablt to find the URL. Don't worry. Scroll down at the end of the file you will get the link
+
+    For this you'll will see a fixed parameter is needed for every search, you can make an input field with that parameter name and use value attribute to set its defaul value. Then you can use "hidden" attribute to hide that input field.
+
+6.  Exercise 6
+    In this exercise, you have to make youtube search.
+
+    You should make a form with a text field for youtube search and a button tag for form submission.
+
+    Its your task, to find the correct URL on which you have to submit the form. Try removing attributes 1 by 1 to see whats happening.
+
+7. Exercise 7
+    Make a list of 1 type and add what ever elements you like to make that a complete webpage. I'll leave the imagination upto you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Image Action URL - https://www.google.co.in/search
+query that you must have in this url is "tbm=isch". Make input with name "tbm" and value 
+isch" and use "hidden" attribute to hide it.
+
+Youtube Search Action URL - https://www.youtube.com/results

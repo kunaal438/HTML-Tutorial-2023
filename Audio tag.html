@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio tag in HTML</title>
+</head>
+<body>
+
+    <!-- 1st way to add audio is this same as self closing video tag  -->
+    <audio src="path of audio file.wav" controls muted loop autoplay></audio>
+
+    <!-- But if you want to add multiple audio files for backups
+    you can use audio tag like closing video tag.
+    -->
+    <audio controls mutes loop autoplay>
+        <source src="source.wav">
+        <source src="source.ogg">
+        <source src="source.mp3">
+        <!-- multiple audio files -->
+        <!-- but if no audio file is found or unable to play you can add a text instead -->
+        Browser not able to play the audio file.
+    </audio>
+    
+</body>
+</html>
